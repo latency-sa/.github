@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=latency-sa&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 <!--
 
 **Here are some ideas to get you started:**
