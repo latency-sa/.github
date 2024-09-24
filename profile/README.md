@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=latency-sa&abbreviated=true)
 <!--
 
 **Here are some ideas to get you started:**
